@@ -6,6 +6,7 @@ public class a1 {
 
 System.out.println("welcome to accenture");
 	System.out.println("be happy");
+		System.out.println("be positive");
 	}
 
 }
